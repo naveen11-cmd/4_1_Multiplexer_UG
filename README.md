@@ -78,7 +78,7 @@ endmodule
 ```
 ## Simulated Output Gate Level Modelling
 
-<img width="1272" height="790" alt="41_gate_modelling" src="https://github.com/user-attachments/assets/499c737e-4d95-48ff-a3bb-117370d2825d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/772dc979-633c-45bf-8680-89c6313d7368" />
 
 
 ---
