@@ -92,7 +92,7 @@ endmodule
 ````
 # Simulated Output Gate Level Modelling
 
-<img width="1920" height="1200" alt="Gate_lvl_mux_4_1" src="https://github.com/user-attachments/assets/68bfd6b4-080a-43ce-9fac-2a18ef951950" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/516fae9a-8a51-487c-9f99-34473abac30a" />
 
 ---
 # 4:1 MUX Data flow Modelling
@@ -142,7 +142,7 @@ endmodule
 ```
 # Simulated Output Dataflow Modelling
 
-<img width="1920" height="1200" alt="Data_flow_mux_4_1" src="https://github.com/user-attachments/assets/0e87c778-6782-4fcf-93d5-5008d478428d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb9825c0-0aaa-45bc-8aa5-0e982d95244c" />
 
 ---
 # 4:1 MUX Behavioral Implementation
@@ -194,7 +194,7 @@ endmodule
 ```
 # Simulated Output Behavioral Modelling
 
-<img width="1920" height="1200" alt="Behavioural_mux_4_1" src="https://github.com/user-attachments/assets/701b6d5a-983d-43e1-881c-0c0545f208ec" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db03972b-dff9-4f87-acc5-7c65994391e5" />
 
 ---
 # 4:1 MUX Structural Implementation
@@ -251,7 +251,7 @@ endmodule
 ```
 # Simulated Output Structural Modelling
 
-<img width="1920" height="1200" alt="Structural_mux_4_1" src="https://github.com/user-attachments/assets/7e288986-1570-496b-b8a1-465f5add4f88" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2458c491-2ca1-48f4-b918-759ac59a8a24" />
 
 ---
 # CONCLUSION
